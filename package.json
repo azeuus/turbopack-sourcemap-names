@@ -1,0 +1,14 @@
+{
+  "name": "turbopack-sourcemap-names",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "build:webpack": "next build --webpack",
+    "inspect": "node inspect.js"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
